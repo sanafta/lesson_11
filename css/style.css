@@ -178,7 +178,7 @@ body {
 }
 .who-we-are::after {
 	content: "";
-	background: url("/img/who-we-are/blob-2.svg") 0 0 no-repeat;
+	background: url("../img/who-we-are/blob-2.svg") 0 0 no-repeat;
 	position: absolute;
 	left: -15px;
 	bottom: -145px;
@@ -187,7 +187,7 @@ body {
 }
 .who-we-are::before {
 	content: "";
-	background: url("/img/who-we-are/stylize-circles.png") 0 0 no-repeat;
+	background: url("../img/who-we-are/stylize-circles.png") 0 0 no-repeat;
 	position: absolute;
 	right: -77px;
 	top: -110px;
