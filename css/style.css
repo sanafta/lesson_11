@@ -210,7 +210,7 @@ body {
 }
 .who-we-are__title::before {
 	content: "";
-	background: url("/img/who-we-are/romb.svg") center no-repeat;
+	background: url("../img/who-we-are/romb.svg") center no-repeat;
 	width: 17px;
 	height: 16px;
 	position: absolute;
